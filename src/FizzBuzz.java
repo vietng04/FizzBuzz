@@ -34,7 +34,7 @@
 //}
 
 class FizzBuzz {
-    public static void main() {
+    public static void main(String[] args) {
         int i = 0;
         while (i < 100) {
             i = doFizzBuzz(i);
